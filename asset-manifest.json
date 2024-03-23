@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MathQuize/static/css/main.598ef92d.css",
+    "main.js": "/MathQuize/static/js/main.03e52beb.js",
+    "static/js/453.a5a72b74.chunk.js": "/MathQuize/static/js/453.a5a72b74.chunk.js",
+    "index.html": "/MathQuize/index.html",
+    "main.598ef92d.css.map": "/MathQuize/static/css/main.598ef92d.css.map",
+    "main.03e52beb.js.map": "/MathQuize/static/js/main.03e52beb.js.map",
+    "453.a5a72b74.chunk.js.map": "/MathQuize/static/js/453.a5a72b74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.598ef92d.css",
+    "static/js/main.03e52beb.js"
+  ]
+}
